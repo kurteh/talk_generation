@@ -1,0 +1,1 @@
+-create embeddings for the sentences. Split the chunks when the embeddings start to drift. Decide which embedding to use.
